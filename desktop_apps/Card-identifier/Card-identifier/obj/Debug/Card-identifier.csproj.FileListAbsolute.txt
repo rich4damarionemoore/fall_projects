@@ -1,0 +1,10 @@
+C:\Users\damar\source\repos\Card-identifier\Card-identifier\obj\Debug\Card-identifier.csprojAssemblyReference.cache
+C:\Users\damar\source\repos\Card-identifier\Card-identifier\obj\Debug\Card_identifier.Form1.resources
+C:\Users\damar\source\repos\Card-identifier\Card-identifier\obj\Debug\Card_identifier.Properties.Resources.resources
+C:\Users\damar\source\repos\Card-identifier\Card-identifier\obj\Debug\Card-identifier.csproj.GenerateResource.cache
+C:\Users\damar\source\repos\Card-identifier\Card-identifier\obj\Debug\Card-identifier.csproj.CoreCompileInputs.cache
+C:\Users\damar\source\repos\Card-identifier\Card-identifier\bin\Debug\Card-identifier.exe.config
+C:\Users\damar\source\repos\Card-identifier\Card-identifier\bin\Debug\Card-identifier.exe
+C:\Users\damar\source\repos\Card-identifier\Card-identifier\bin\Debug\Card-identifier.pdb
+C:\Users\damar\source\repos\Card-identifier\Card-identifier\obj\Debug\Card-identifier.exe
+C:\Users\damar\source\repos\Card-identifier\Card-identifier\obj\Debug\Card-identifier.pdb

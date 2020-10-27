@@ -1,0 +1,10 @@
+C:\Users\damar\source\repos\Color_Mixer\Color_Mixer\bin\Debug\Color_Mixer.exe.config
+C:\Users\damar\source\repos\Color_Mixer\Color_Mixer\bin\Debug\Color_Mixer.exe
+C:\Users\damar\source\repos\Color_Mixer\Color_Mixer\bin\Debug\Color_Mixer.pdb
+C:\Users\damar\source\repos\Color_Mixer\Color_Mixer\obj\Debug\Color_Mixer.csprojAssemblyReference.cache
+C:\Users\damar\source\repos\Color_Mixer\Color_Mixer\obj\Debug\Color_Mixer.Form1.resources
+C:\Users\damar\source\repos\Color_Mixer\Color_Mixer\obj\Debug\Color_Mixer.Properties.Resources.resources
+C:\Users\damar\source\repos\Color_Mixer\Color_Mixer\obj\Debug\Color_Mixer.csproj.GenerateResource.cache
+C:\Users\damar\source\repos\Color_Mixer\Color_Mixer\obj\Debug\Color_Mixer.csproj.CoreCompileInputs.cache
+C:\Users\damar\source\repos\Color_Mixer\Color_Mixer\obj\Debug\Color_Mixer.exe
+C:\Users\damar\source\repos\Color_Mixer\Color_Mixer\obj\Debug\Color_Mixer.pdb

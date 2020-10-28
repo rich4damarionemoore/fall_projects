@@ -1,0 +1,10 @@
+C:\Users\damar\source\repos\Change_for_a_dollar_game\Change_for_a_dollar_game\bin\Debug\Change_for_a_dollar_game.exe.config
+C:\Users\damar\source\repos\Change_for_a_dollar_game\Change_for_a_dollar_game\bin\Debug\Change_for_a_dollar_game.exe
+C:\Users\damar\source\repos\Change_for_a_dollar_game\Change_for_a_dollar_game\bin\Debug\Change_for_a_dollar_game.pdb
+C:\Users\damar\source\repos\Change_for_a_dollar_game\Change_for_a_dollar_game\obj\Debug\Change_for_a_dollar_game.csprojAssemblyReference.cache
+C:\Users\damar\source\repos\Change_for_a_dollar_game\Change_for_a_dollar_game\obj\Debug\Change_for_a_dollar_game.frmChangeForDollar.resources
+C:\Users\damar\source\repos\Change_for_a_dollar_game\Change_for_a_dollar_game\obj\Debug\Change_for_a_dollar_game.Properties.Resources.resources
+C:\Users\damar\source\repos\Change_for_a_dollar_game\Change_for_a_dollar_game\obj\Debug\Change_for_a_dollar_game.csproj.GenerateResource.cache
+C:\Users\damar\source\repos\Change_for_a_dollar_game\Change_for_a_dollar_game\obj\Debug\Change_for_a_dollar_game.csproj.CoreCompileInputs.cache
+C:\Users\damar\source\repos\Change_for_a_dollar_game\Change_for_a_dollar_game\obj\Debug\Change_for_a_dollar_game.exe
+C:\Users\damar\source\repos\Change_for_a_dollar_game\Change_for_a_dollar_game\obj\Debug\Change_for_a_dollar_game.pdb

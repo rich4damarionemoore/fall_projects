@@ -1,0 +1,29 @@
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\bin\Debug\Gaddis-03-14-StadiumSeating.exe.config
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\bin\Debug\Gaddis-03-14-StadiumSeating.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\bin\Debug\Gaddis-03-14-StadiumSeating.pdb
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis-03-14-StadiumSeating.csprojResolveAssemblyReference.cache
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis_03_14_StadiumSeating.frmStadiumSeating.resources
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis_03_14_StadiumSeating.Properties.Resources.resources
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis-03-14-StadiumSeating.csproj.GenerateResource.Cache
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis-03-14-StadiumSeating.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis-03-14-StadiumSeating.pdb
+C:\Users\davidjr2417\Desktop\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\bin\Debug\Gaddis-03-14-StadiumSeating.exe.config
+C:\Users\davidjr2417\Desktop\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\bin\Debug\Gaddis-03-14-StadiumSeating.exe
+C:\Users\davidjr2417\Desktop\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\bin\Debug\Gaddis-03-14-StadiumSeating.pdb
+C:\Users\davidjr2417\Desktop\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis-03-14-StadiumSeating.csprojAssemblyReference.cache
+C:\Users\davidjr2417\Desktop\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis_03_14_StadiumSeating.frmStadiumSeating.resources
+C:\Users\davidjr2417\Desktop\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis_03_14_StadiumSeating.Properties.Resources.resources
+C:\Users\davidjr2417\Desktop\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis-03-14-StadiumSeating.csproj.GenerateResource.cache
+C:\Users\davidjr2417\Desktop\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis-03-14-StadiumSeating.csproj.CoreCompileInputs.cache
+C:\Users\davidjr2417\Desktop\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis-03-14-StadiumSeating.exe
+C:\Users\davidjr2417\Desktop\Gaddis-03-14-StadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis-03-14-StadiumSeating.pdb
+C:\Users\damar\Desktop\stadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis-03-14-StadiumSeating.csprojAssemblyReference.cache
+C:\Users\damar\Desktop\stadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\stadiumSeating.frmStadiumSeating.resources
+C:\Users\damar\Desktop\stadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\stadiumSeating.Properties.Resources.resources
+C:\Users\damar\Desktop\stadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis-03-14-StadiumSeating.csproj.GenerateResource.cache
+C:\Users\damar\Desktop\stadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\Gaddis-03-14-StadiumSeating.csproj.CoreCompileInputs.cache
+C:\Users\damar\Desktop\stadiumSeating\Gaddis-03-14-StadiumSeating\bin\Debug\stadiumSeating.exe.config
+C:\Users\damar\Desktop\stadiumSeating\Gaddis-03-14-StadiumSeating\bin\Debug\stadiumSeating.exe
+C:\Users\damar\Desktop\stadiumSeating\Gaddis-03-14-StadiumSeating\bin\Debug\stadiumSeating.pdb
+C:\Users\damar\Desktop\stadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\stadiumSeating.exe
+C:\Users\damar\Desktop\stadiumSeating\Gaddis-03-14-StadiumSeating\obj\Debug\stadiumSeating.pdb
